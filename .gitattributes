@@ -1,0 +1,33 @@
+# ===============================
+# Binary files (do not diff)
+# ===============================
+*.exe binary
+*.dll binary
+*.sys binary
+*.ico binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+
+# ===============================
+# Python source files
+# ===============================
+*.py text eol=lf
+
+# ===============================
+# Documentation
+# ===============================
+*.md text eol=lf
+*.txt text eol=lf
+
+# ===============================
+# Logs
+# ===============================
+*.log text eol=lf
+
+# ===============================
+# Version folders handling
+# ===============================
+1.5/** linguist-generated=false
+2.0/** linguist-generated=false
